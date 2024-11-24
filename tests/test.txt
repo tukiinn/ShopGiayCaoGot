@@ -1,0 +1,14 @@
+partnerCode=MOMOBKUN20180529
+&orderId=28
+&requestId=1727793726
+&amount=2390333
+&orderInfo=Thanh+toán+qua+MoMo&orderType=momo_wallet
+&transId=4175435339
+&resultCode=0
+&message=Successful.
+&payType=napas&responseTime=1727793784864
+&extraData=
+&signature=f8c7bf369b7ce8cf47a37624544a2ccbe70d4566988e7cb21f8544c3597144b2
+
+
+9704 0000 0000 0018
